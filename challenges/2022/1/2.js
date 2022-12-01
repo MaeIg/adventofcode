@@ -1,4 +1,4 @@
-import { getInputs } from "../../api/getInputs.js";
+import { getInputs } from "../../../api/getInputs.js";
 
 getInputs("https://adventofcode.com/2022/day/1/input").then((inputs) => {
     // console.log("==== Inputs ====");
